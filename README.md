@@ -1,5 +1,5 @@
 
-# tierradentro2021 WordPress Theme
+# Tierradentro2021 WordPress Theme
 
 ## About
 
@@ -7,7 +7,7 @@ A Wordpress theme with customizer sections based on understrap.
 
 ## License
 
-UnderStrap is distributed under the terms of the GNU GPL version 2
+Tierradentro2021 is distributed under the terms of the GNU GPL version 2
 
 http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
 
